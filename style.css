@@ -1,0 +1,42 @@
+body {
+    font-family: Arial;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+h1 {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+}
+
+h2 {
+    color: navy;
+}
+
+table {
+    width: 80%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 12px;
+}
+
+th {
+    background-color: navy;
+    color: white;
+}
+
+tr:hover {
+    background-color: lightblue;
+}
+
+footer {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
